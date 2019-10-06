@@ -39,5 +39,6 @@ input_to_index
 end 
 
 def position_taken(board, position)
-  if board[]
+  if board[position] == "" || 
+    
 end
