@@ -37,3 +37,7 @@ choice = gets.to_i
 input_to_index
 
 end 
+
+def position_taken(board, position)
+  if board[]
+end
